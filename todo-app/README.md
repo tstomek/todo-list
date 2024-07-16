@@ -11,7 +11,7 @@ Ensure you have the following installed on your machine:
 - [Yarn](https://yarnpkg.com/) (version 1.x recommended)
 
 ### Installation and project running
-
+```
 yarn install
 yarn start
 ```
