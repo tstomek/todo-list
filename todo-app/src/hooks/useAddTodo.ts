@@ -1,4 +1,3 @@
-// src/hooks/useAddTodo.ts
 import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { addTodo } from "../api/todos";
 import { Todo } from "../types/types";
