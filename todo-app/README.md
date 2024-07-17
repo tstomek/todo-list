@@ -1,6 +1,6 @@
 # todo app Game
 
-This is a React-based todo app that uses Material-UI for styling, react-query and axios.
+This is a React-based todo app that uses Material-UI for styling, react-query.
 Api is mocked only for create mock request.
 
 ### Prerequisites
