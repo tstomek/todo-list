@@ -1,4 +1,3 @@
-// src/components/TodoItem.tsx
 import React from "react";
 import { Todo } from "../types/types";
 import {
